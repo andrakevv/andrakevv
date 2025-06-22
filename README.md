@@ -1,17 +1,17 @@
-# 👨‍💻 About Me:
+# 👨‍💻 About Me
 🎓 A graduate of Vocational High School majoring in Software Engineering (RPL).  <br>
 💻 Passionate about exploring technology, especially in the field of coding.  <br>
 🎓 Currently studying at Universitas Muhammadiyah Surakarta.  <br>
 🚀 Actively learning and growing in the world of software development.  
 
-## 🌐 Socials:
+## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kviinandr) 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/1220364606606671905) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kevinandranugroho732@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]() 
 # 
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
@@ -25,6 +25,6 @@
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 ![](https://nirzak-streak-stats.vercel.app/?user=andrakevv&theme=onedark&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=andrakevv&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
