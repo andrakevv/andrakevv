@@ -1,8 +1,11 @@
+# 👋 Hi, I'm Kevin Andra Nugroho
+I'm an enthusiastic software developer with a strong interest in building modern web and mobile applications. I have a deep passion for learning new technologies and continuously improving my skills. Currently, I'm pursuing a degree in Informatics Engineering at Universitas Muhammadiyah Surakarta (UMS) while actively exploring and growing in the world of software development.
+
 # 👨‍💻 About Me
-🎓 A graduate of Vocational High School majoring in Software Engineering (RPL).  <br>
-💻 Passionate about exploring technology, especially in the field of coding.  <br>
-🎓 Currently studying at Universitas Muhammadiyah Surakarta.  <br>
-🚀 Actively learning and growing in the world of software development.  
+🎓 A Vocational High School graduate majoring in Software Engineering (RPL). <br>
+💻 Passionate about coding and always eager to explore the latest in technology. <br>
+🎓 Currently pursuing a degree in Informatics Engineering at Universitas Muhammadiyah Surakarta (UMS). <br>
+🚀 Continuously learning and striving to become a better software developer.
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kviinandr) 
